@@ -1,0 +1,3 @@
+function changePictures() {
+    alert('ddd');
+}
